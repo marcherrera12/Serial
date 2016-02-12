@@ -36,7 +36,7 @@ void setup()
   Serial.print("c / b = ");       // divisió
   Serial.println(c / b);
 
-  Serial.print("c % b = ");       // modul
+  Serial.print("c % b = ");       // modul(saber el residu de la divisió)
   Serial.println(c % b);
   
   Serial.print("b - c = ");       // resta
