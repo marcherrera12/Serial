@@ -1,7 +1,7 @@
 /********************************************************************************
-**                                                                             **
-**     El programa Serial 1.1 serveix perque l'arduino es comuniqui amb tu.    **
-**               L'arduino ho fa amb el monitor del programa.                  **
+**    El programa Serial 1.1 serveix perque l'arduino es comuniqui amb tu.     **
+**    L'arduino ho fa amb el monitor del programa.                             **
+**    En aquest cas només ho escriu un cop                                     **
 ********************************************************************************/
 
 //*******  Includes  ************************************************************
