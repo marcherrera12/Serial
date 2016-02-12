@@ -19,6 +19,6 @@ void setup()
 
 // La funció Loop es va repetin cada cop.
 void loop() {
-  Serial.print("Hello world!"); // Escriure amb un salt de linia
+  Serial.print("Hello world!"); // Escriure sense salt de linia
   delay(1000); // Espera 1s = 1000 ms
 }
