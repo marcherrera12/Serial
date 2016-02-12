@@ -1,7 +1,7 @@
 /********************************************************************************
 **    El programa Serial 1.2 serveix perque l'arduino es comuniqui amb tu.     **
 **    L'arduino ho fa amb el monitor del programa.                             **
-**    En aquest cas ho escriu cada 1 segon.                                    **
+**    En aquest cas ho escriu cada 1 segon sense salt de linia.                **
 ********************************************************************************/
 
 //*******  Includes  ************************************************************
@@ -19,6 +19,6 @@ void setup()
 
 // La funció Loop es va repetin cada cop.
 void loop() {
-  Serial.println("Hello world!"); // Escriure amb un salt de linia
+  Serial.print("Hello world!"); // Escriure amb un salt de linia
   delay(1000); // Espera 1s = 1000 ms
 }
