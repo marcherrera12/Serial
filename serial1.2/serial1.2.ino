@@ -14,7 +14,6 @@
 void setup()
 {
   Serial.begin(9600);       // Engega la llibreria serial a la velocitat 9600 bps
-  Serial.println("Hello world!"); // Escriure amb un salt de linia
 }
 
 // La funció Loop es va repetin cada cop.
