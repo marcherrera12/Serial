@@ -1,5 +1,5 @@
 /********************************************************************************
-**    El programa Serial 2.3 serveix perque l'arduino es comuniqui amb tu.     **
+**    El programa Serial 2.5 serveix perque l'arduino es comuniqui amb tu.     **
 **    L'arduino ho fa amb el monitor del programa.                             **
 **    Converteix els GB a MB.                                                  **
 ********************************************************************************/
