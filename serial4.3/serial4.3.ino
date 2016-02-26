@@ -9,7 +9,7 @@
 
 //*******  Variables  ***********************************************************
 
-int tempAigua = 100;
+int tempAigua = 120;
 
 // La funció Setup només s'executa un cop. Quan la placa s'encen o es fa reset.
 void setup()
